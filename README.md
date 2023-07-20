@@ -11,7 +11,7 @@ playing accordingly to win or, at least, not to lose.
 - [Installation](#installation)
 - [Credits](#credits)
 - [License](#license)
-- [Video}(#video)
+- [Video](#video)
 
 ## tictactoe.py
 Object with all methods for the AI of the game.
