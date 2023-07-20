@@ -14,9 +14,13 @@ Actions returns a set() of all the possible actions in the board. As the board i
 ### def result(board, action):
 It returns how the board will be after an action. As the board is a matrix, the board can be changed based on x and y information given by actions(board).
 ### def winner(board):
+The winner function should accept a board as input, and return the winner of the board if there is one. It is made by checking the horizontal, vertical, and diagonal possible ways to win.
 ### def terminal(board):
+The terminal function accepts a board as input and returns a boolean value indicating whether the game is over. If there is a winner or there are no more empty spaces, it returns True.
 ### def utility(board):
+Using winner(board), utility returns 1 if X has won the game, -1 if O has won, and 0 otherwise.
 ### def max_value(board):
+
 ### def min_value(board):
 ### def minimax(board):
 
