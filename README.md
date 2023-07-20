@@ -50,7 +50,9 @@ Minimax returns None if the board is a terminal board, there is a winner or ther
 This project is a part of the CS50 Introduction to Artificial Intelligence with Python course offered by Harvard University. The implementation of the minimax algorithm and the game's structure are inspired by the course materials.
 
 ## License
-This course is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. This is a human-readable summary of (and not a substitute for) the license. 
+This course is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). More information [here](https://cs50.harvard.edu/ai/2020/license/).
+
+## Video
 
    
 
