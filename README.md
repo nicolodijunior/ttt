@@ -11,7 +11,7 @@ playing accordingly to win or, at least, not to lose.
 - [Installation](#installation)
 - [Credits](#credits)
 - [License](#license)
-- [Video](#video)
+- [Preview](#video)
 
 ## tictactoe.py
 Object with all methods for the AI of the game.
@@ -52,7 +52,8 @@ This project is a part of the CS50 Introduction to Artificial Intelligence with 
 ## License
 This course is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). More information [here](https://cs50.harvard.edu/ai/2020/license/).
 
-## Video
+## Preview
+![Tictactoe_artificial_intelligence](https://github.com/nicolodijunior/ttt/assets/101586266/f1bbb32a-1bac-4548-84da-b34cee1eb389)
 
    
 
